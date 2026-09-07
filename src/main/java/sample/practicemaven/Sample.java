@@ -17,6 +17,6 @@ driver.get("https://www.engineerdiaries.com/selenium");
 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
 page2 page=new page2(driver);
 page.getInputBox().clear();
-page.getInputBox().sendKeys("hell90123");
+page.getInputBox().sendKeys("hell923");
 
 }}
